@@ -15,6 +15,3 @@ The Chess game was built to get hands on [WebXR Device API](https://www.w3.org/T
 
 This application is only to demonstrate the power of WebXR.
 
-#### Blog
-Here's my blog for detail explaination of WebXR Device API and Chess game:
-https://medium.com/@brijesh.intouch/chess-game-using-webxr-device-api-201f8c06ba2c
