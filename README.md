@@ -1,7 +1,7 @@
 # webxr-chess-game
 AR Chess game using WebXR device API
 
-![Image of AR Chess game](https://raw.githubusercontent.com/Brijesh1005/webxr-chess-game/master/assets/chess/AR-Chess.jpg)
+![Image of AR Chess game](https://github.com/Daksh-404/chess-ar/edit/main/assets/chess.jpg)
 
 
 #### Set up instructions
