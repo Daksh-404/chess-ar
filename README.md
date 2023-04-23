@@ -28,16 +28,12 @@ real-world experience. It eliminates the need of carrying a chess board or
 chess pieces, and provides a real-life, three-dimensional chess
 experience.
 
-#### Set up instructions
-Set up instructions are mentioned [here](https://codelabs.developers.google.com/codelabs/ar-with-webxr/#1). The documentation and other details can be found [here](https://drive.google.com/file/d/1eAFI5Tqm9r3gV51OZACnNyDxlNN8lBJ_/view?usp=sharing).
+#### Set up instructions 
+Set up instructions are mentioned [here](https://codelabs.developers.google.com/codelabs/ar-with-webxr/#1). 
+
+#### Other Information
+The documentation and other details can be found [here](https://drive.google.com/file/d/1eAFI5Tqm9r3gV51OZACnNyDxlNN8lBJ_/view?usp=sharing). You can watch the [Demo Video](https://drive.google.com/file/d/1bUkqE4Cc-LY9Kp1r95fDDvu2J3HCX-Lz/view?usp=sharing) for seeing the final rendering of the application.
 
 
 
-#### Current state of the application
-The Chess game was built to get hands on [WebXR Device API](https://www.w3.org/TR/webxr/) and in no way game was expected to work fully. WebXR is still in development phase and developers from Mozilla, Google and Microsoft working together to make WebXR better and bring it in their respective browsers.
-
-* If you observe all the chess pieces looks similar and for starter you can use the direction of chess piece to recognise which one is yours.
-* I have not coded all the chess game rules
-
-This application is only to demonstrate the power of WebXR.
 
